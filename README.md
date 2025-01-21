@@ -6,5 +6,3 @@
 
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=danprograms&label=Profile%20Views&style=flat-square&color=%23000000)
-
-Have a nice day 😁
