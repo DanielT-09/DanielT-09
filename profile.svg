@@ -48,8 +48,8 @@
 
     <tspan x="390" y="150">dan = <tspan class="cc">{</tspan></tspan>
 
-    <tspan x="410" y="170"><tspan class="key">"programming_languages"</tspan>: <tspan class="value">"python"</tspan>,</tspan>
-    <tspan x="410" y="190"><tspan class="key">"real.languages"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"english"</tspan>, <tspan class="value">"polish"</tspan><tspan class="cc">]</tspan>,</tspan>
+    <tspan x="410" y="170"><tspan class="key">"language.programming"</tspan>: <tspan class="value">"python"</tspan>,</tspan>
+    <tspan x="410" y="190"><tspan class="key">"language.real"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"english"</tspan>, <tspan class="value">"polish"</tspan><tspan class="cc">]</tspan>,</tspan>
 
     <!-- gap after real.languages -->
     <tspan x="390" y="210"> </tspan>
@@ -60,8 +60,8 @@
     <!-- gap after emails -->
     <tspan x="390" y="270"> </tspan>
 
-    <tspan x="410" y="290"><tspan class="key">"a_levels"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"cs"</tspan>, <tspan class="value">"maths"</tspan>, <tspan class="value">"physics"</tspan><tspan class="cc">]</tspan>,</tspan>
-    <tspan x="410" y="310"><tspan class="key">"other_interests"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"piano"</tspan>, <tspan class="value">"gym"</tspan>, <tspan class="value">"motorcycles"</tspan><tspan class="cc">]</tspan></tspan>
+    <tspan x="410" y="290"><tspan class="key">"a.levels"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"cs"</tspan>, <tspan class="value">"maths"</tspan>, <tspan class="value">"physics"</tspan><tspan class="cc">]</tspan>,</tspan>
+    <tspan x="410" y="310"><tspan class="key">"interests"</tspan>: <tspan class="cc">[</tspan><tspan class="value">"piano"</tspan>, <tspan class="value">"gym"</tspan>, <tspan class="value">"motorcycles"</tspan><tspan class="cc">]</tspan></tspan>
 
     <tspan x="390" y="330"><tspan class="cc">}</tspan></tspan>
   </text>
