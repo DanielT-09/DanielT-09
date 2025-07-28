@@ -17,8 +17,8 @@
     text, tspan { white-space: pre; fill: #222222; }
 
     /* ASCII art colors */
-    .hash { fill: #000000; }
-    .equal { fill: #868686ff; }
+    .hash { fill: #2c3e50; }       /* deep navy blue */
+    .equal { fill: #e67e22; }      /* vibrant orange */
 
     /* ASCII art bold */
     .ascii tspan { font-weight: bold; }
